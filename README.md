@@ -2,7 +2,7 @@
 
   <h1>Baumkuchen Code</h1>
 
-  <p>A playful sandbox with boilerplate examples—tinker-ready for frontend experiments.</p>
+  <p>A layered sandbox for cutting-edge frontend experiments</p>
   
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fjihnma%2Fbaumkuchen-code%2Fraw%2Fmain%2Fexamples/react/package.json&query=%24.dependencies.react&style=flat-square&logo=react&logoColor=087ea4&label=React&labelColor=ffffff&color=087ea4" alt="React">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fjihnma%2Fbaumkuchen-code%2Fraw%2Fmain%2Fexamples/react-tanstack-query/package.json&query=%24.dependencies.@tanstack/react-query&style=flat-square&logo=react-query&logoColor=ef4444&label=TanStack%20Query&labelColor=ffffff&color=ef4444" alt="TanStack Query">
