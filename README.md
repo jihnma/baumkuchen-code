@@ -16,7 +16,8 @@
   
 | Example | Launch |
 |---------|--------|
-| [React with TanStack Query](https://github.com/jihnma/baumkuchen-code/tree/main/examples/react) | [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/jihnma/baumkuchen-code/tree/main/examples/react-tanstack-query) |
+| [React](https://github.com/jihnma/baumkuchen-code/tree/main/examples/react) | [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/jihnma/baumkuchen-code/tree/main/examples/react) |
+| [React with TanStack Query](https://github.com/jihnma/baumkuchen-code/tree/main/examples/react-tanstack-query) | [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/jihnma/baumkuchen-code/tree/main/examples/react-tanstack-query) |
 | [React Router](https://github.com/jihnma/baumkuchen-code/tree/main/examples/react-router) | [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/jihnma/baumkuchen-code/tree/main/examples/react-router) |
 
 </div>
