@@ -1,0 +1,19 @@
+:root {
+	font-family: system-ui, Arial, sans-serif;
+
+	color-scheme: light dark;
+	color: #ffffff;
+	background-color: #333333;
+
+	font-synthesis: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+@media (prefers-color-scheme: light) {
+	:root {
+		color: #333333;
+		background-color: #ffffff;
+	}
+}
