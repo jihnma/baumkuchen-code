@@ -1,0 +1,14 @@
+{
+	"name": "baumkuchen-code",
+	"description": "",
+	"keywords": [],
+	"author": "Jihnma <jihnma@beaket.com> (https://beaket.com/)",
+	"license": "MIT",
+	"scripts": {
+		"format": "biome format"
+	},
+	"packageManager": "pnpm@10.7.1",
+	"devDependencies": {
+		"@biomejs/biome": "1.9.4"
+	}
+}
