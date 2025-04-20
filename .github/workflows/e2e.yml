@@ -28,7 +28,7 @@ jobs:
 
       - name: Install Playwright Browsers
         working-directory: ./examples/react
-        run: pnpm exec playwright install --with-deps || true
+        run: pnpm exec playwright install --with-deps chromium
 
       - name: Run Playwright tests
         working-directory: ./examples/react
