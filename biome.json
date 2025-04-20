@@ -1,7 +1,12 @@
 {
 	"$schema": "https://biomejs.dev/schemas/1.9.4/schema.json",
 	"files": {
-		"ignore": ["**/.react-router/**/*", "**/build/**/*", "**/dist/**/*"]
+		"ignore": [
+			"**/.react-router/**/*",
+			"**/build/**/*",
+			"**/dist/**/*",
+			"**/.next/**/*"
+		]
 	},
 	"formatter": {
 		"enabled": true,
