@@ -27,6 +27,6 @@
 		"vitest": "3.1.1"
 	},
 	"stackblitz": {
-		"startCommand": "rm -rf src/{hooks,ui} e2e playwright.config.ts && npm run dev"
+		"startCommand": "rm -rf src/hooks src/ui e2e; rm -f playwright.config.ts; npm run dev"
 	}
 }
