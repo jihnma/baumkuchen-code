@@ -19,7 +19,7 @@
 | Example | Launch |
 |---------|--------|
 | [React](https://github.com/jihnma/baumkuchen-code/tree/main/examples/react) | [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/jihnma/baumkuchen-code/tree/main/examples/react?file=src%2Fapp.tsx) |
-| [React with TanStack Query](https://github.com/jihnma/baumkuchen-code/tree/main/examples/react-tanstack-query) | [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/jihnma/baumkuchen-code/tree/main/examples/react-tanstack-query) |
+| [React with TanStack Query](https://github.com/jihnma/baumkuchen-code/tree/main/examples/react-tanstack-query) | [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/jihnma/baumkuchen-code/tree/main/examples/react-tanstack-query?file=src%2Froutes%2Fhome.tsx) |
 | [React Router](https://github.com/jihnma/baumkuchen-code/tree/main/examples/react-router) | [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/jihnma/baumkuchen-code/tree/main/examples/react-router) |
 | [React Next.js](https://github.com/jihnma/baumkuchen-code/tree/main/examples/react-nextjs) | [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/jihnma/baumkuchen-code/tree/main/examples/react-nextjs) |
 
