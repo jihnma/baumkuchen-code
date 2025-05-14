@@ -8,7 +8,7 @@
 		"format": "biome format"
 	},
 	"engines": {
-		"node": "22.15.0"
+		"node": "22.15.1"
 	},
 	"packageManager": "pnpm@10.11.0",
 	"devDependencies": {
