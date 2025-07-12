@@ -1,19 +1,8 @@
 {
-	"$schema": "https://biomejs.dev/schemas/1.9.4/schema.json",
-	"files": {
-		"ignore": [
-			"**/.react-router/**/*",
-			"**/build/**/*",
-			"**/dist/**/*",
-			"**/.next/**/*"
-		]
-	},
+	"$schema": "https://biomejs.dev/schemas/2.1.1/schema.json",
 	"formatter": {
 		"enabled": true,
 		"indentStyle": "tab"
-	},
-	"organizeImports": {
-		"enabled": true
 	},
 	"linter": {
 		"enabled": true,
