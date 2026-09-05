@@ -23,10 +23,10 @@
 		"@types/react-dom": "19.0.4",
 		"@tailwindcss/vite": "4.1.4",
 		"@vitejs/plugin-react": "4.3.4",
-		"happy-dom": "17.4.4",
+		"happy-dom": "20.8.9",
 		"typescript": "5.8.3",
-		"vite": "6.3.1",
-		"vitest": "3.1.1"
+		"vite": "6.4.3",
+		"vitest": "3.2.6"
 	},
 	"stackblitz": {
 		"startCommand": "rm -rf src/hooks src/ui e2e; rm -f playwright.config.ts; npm run dev"
